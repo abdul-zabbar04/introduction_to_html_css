@@ -1,0 +1,28 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+header{
+    background-color: tomato;
+}
+
+ul{
+    display: flex;
+}
+
+li{
+    list-style-type: none;
+    font-size: 24px;
+    padding: 16px;
+    font-weight: 600;
+}
+a{
+    text-decoration: none;
+    color: white;
+}
+
+footer{
+    background-color: aqua;
+
+}
